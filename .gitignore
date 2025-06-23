@@ -1,2 +1,4 @@
 #First commit
-./bin/cache/*
+bin/cache/*
+obj/*
+bin/libcef.so
