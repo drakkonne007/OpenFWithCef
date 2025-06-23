@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000000;
+}
+img {
+  max-width: 90vw;
+  max-height: 90vh;
+  object-fit: contain;
+  transform-style: preserve-3d;
+  transition: transform 0.1s linear;
+}
